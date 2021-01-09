@@ -7,10 +7,10 @@
 ## 必要なツールのインストール
 
 ### Go
-# version  go1.15.6 darwin/amd64
+### version  go1.15.6 darwin/amd64
 
 ### Python
-# version   3.7.4
+### version   3.7.4
 
 ### Pythonのライブラリのインストール
 
@@ -37,11 +37,11 @@ $ go get github.com/maku77/gosample
 $ go run wc_go ‘論文詳細画面のurl’
 ```
 
-＃例
+## 例
 ```
 $ go run wc_go　https://pubmed.ncbi.nlm.nih.gov/21676388/
 ```
 
-##s3のURLにwc.pngの画像が保存される
+## s3のURLにwc.pngの画像が保存される
 
-#https://s3-ap-northeast-1.amazonaws.com/wc.project/wc.png
+# https://s3-ap-northeast-1.amazonaws.com/wc.project/wc.png
