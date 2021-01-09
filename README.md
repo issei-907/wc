@@ -28,8 +28,8 @@ $ pip install boto3
 ## パッケージを取得する
 
 ```
-$ git clone 
-$ go get github.com/maku77/gosample
+$ git clone https://github.com/issei-907/wc.git
+$ go get github.com/issei-907/wc/
 ```
 
 ## 実行方法
