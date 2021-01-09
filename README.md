@@ -29,17 +29,17 @@ $ pip install boto3
 
 ```
 $ git clone https://github.com/issei-907/wc.git
-$ go get github.com/issei-907/wc/
+$ go get github.com/issei-907/wc/wc_golang_/wc_1
 ```
 
 ## 実行方法
 ```
-$ go run wc_go ‘論文詳細画面のurl’
+$ go run wc_1.go ‘論文詳細画面のurl’
 ```
 
 ## 例
 ```
-$ go run wc_go　https://pubmed.ncbi.nlm.nih.gov/21676388/
+$ go run wc_1.go　https://pubmed.ncbi.nlm.nih.gov/21676388/
 ```
 
 ## s3のURLにwc.pngの画像が保存される
