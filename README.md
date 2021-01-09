@@ -7,10 +7,10 @@
 ## 必要なツールのインストール
 
 ### Go
-version  go1.15.6 darwin/amd64
+# version  go1.15.6 darwin/amd64
 
-###Python
-version   3.7.4
+### Python
+# version   3.7.4
 
 ### Pythonのライブラリのインストール
 
